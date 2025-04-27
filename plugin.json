@@ -1,0 +1,11 @@
+{
+    "ID": "potatox.pipinstaller",
+    "Name": "Pip",
+    "Description": "Install Python packages easily via pip",
+    "Author": "Potatox",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/POTATOX35/pipflowlauncher",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "plugin.py"
+}
